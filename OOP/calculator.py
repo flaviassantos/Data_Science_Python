@@ -1,3 +1,10 @@
+"""
+Usage: 
+
+python calculator.py
+
+"""
+
 from tkinter import * 
 from tkinter import ttk
 
